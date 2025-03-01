@@ -45,11 +45,11 @@ The accuracies of the models are visualized using bar plots and line plots.
 
 ### Bar Plot
 
-![Bar Plot of Model Accuracies](bar_plot.png)
+![Bar Plot of Model Accuracies](https://raw.githubusercontent.com/Shreshtapatil/Crop_Recommendation/refs/heads/main/images/bar_plot.jpeg)
 
 ### Line Plot
 
-![Line Plot of Model Accuracies](line_plot.png)
+![Line Plot of Model Accuracies](https://raw.githubusercontent.com/Shreshtapatil/Crop_Recommendation/refs/heads/main/images/line_plot.jpeg)
 
 ## Conclusion
 
